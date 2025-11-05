@@ -1,7 +1,7 @@
 # Fares Ben Gaid Hassine  
 **Data Science Engineer | AI & ML Enthusiast**  
 📍 Bizerte, Tunisia &nbsp; | &nbsp; 📧 [bghfares@gmail.com](mailto:bghfares@gmail.com) &nbsp; | &nbsp; 📞 [+216 23 718 096](tel:+21623718096)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/fares-bengaidhassine) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/fares-bengaidhassine) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/bghfares)
 
 ---
 
