@@ -48,26 +48,26 @@ I thrive at the intersection of **code**, **data**, and **impact** — from real
 
 ## 🚀 Featured Projects
 
-### [AI Research Agent](https://github.com/yourusername/ai-research-agent) *(Advanced Deep Learning)*  
+### [AI Research Agent]*(Advanced Deep Learning)*  
 > **Autonomous multi-agent system for web research, summarization, and fact-checking**  
 - Orchestrated agents via **LangChain** + custom framework  
 - Integrated **Llama 3.1 (Ollama)**, **Crawl4AI**, and **Serper.dev API**  
 - Built **fake news detection** with NLP + source credibility scoring  
 - Modular design for extensibility
 
-### [FarmWise](https://github.com/yourusername/farmwise) *(Integrated Data Science Platform)*  
+### [FarmWise]*(Integrated Data Science Platform)*  
 > **AI-powered precision agriculture dashboard**  
 - CNNs, **YOLOv8**, **Random Forest**, **VGG16**, LDA  
 - Disease detection, fire prediction, irrigation optimization  
 - **Flask + Power BI** deployment with **voice assistant** & weather APIs
 
-### [Speech Emotion Recognition](https://github.com/yourusername/speech-emotion-recognition) *(Deep Learning)*  
+### [Speech Emotion Recognition] *(Deep Learning)*  
 > **Multilingual emotion detection from voice**  
 - Trained on **EmoDB (DE)** & **RAVDESS (EN)**  
 - Synthetic data via **VAEs + Diffusion Models**  
 - Evaluated **CNN, ResNet, attention-based models**
 
-### [MLOps Pipeline with MLflow](https://github.com/yourusername/mlops-mlflow-project)  
+### [MLOps Pipeline with MLflow]  
 > **End-to-end model lifecycle automation**  
 - **FastAPI + Docker + GitHub Actions**  
 - Experiment tracking with **MLflow + Kibana**
